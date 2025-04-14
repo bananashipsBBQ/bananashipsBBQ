@@ -1,5 +1,5 @@
-<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<h2 align="Center">  Welcome to the house of banana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+![Static Badge](https://img.shields.io/badge/Android-green)
 
 
 I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur 🤓
