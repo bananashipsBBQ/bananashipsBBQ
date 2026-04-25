@@ -3,6 +3,6 @@
 
 信安小白 苦逼二进制选手 🤓
 
-- 🔭 CTFer/Reverse/binary security/Android/IoT
+- 🔭 CTFer/Reverse/binary security/Android
 - 🌱 A Student From DLNU
-- 👯 ChaMd5/Rweb
+- 👯 Venom/Rweb
