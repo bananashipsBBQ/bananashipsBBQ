@@ -5,4 +5,4 @@
 
 - 🔭 CTFer/Reverse/binary security/Android
 - 🌱 A Student From DLNU
-- 👯 Venom/Rweb
+- 👯 Mini-Venom/Rweb
